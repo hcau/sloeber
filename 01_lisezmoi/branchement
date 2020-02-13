@@ -1,0 +1,10 @@
+pin 6 => pin D6 sur l'arduino
+ground => GND
+vcc => 5V
+
+Attention, les led WS2811 sont prévues pour fonctionner en 12v pour l'alimentation et en 5v pour la commande.
+Dans ce cas, les led s'éclaires sous diverses couleurs.
+Si alim + commande en 5v, alors leds uniquement en rouge.   
+
+
+
